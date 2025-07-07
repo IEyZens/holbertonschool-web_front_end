@@ -69,7 +69,7 @@ holbertonschool-web_front_end/
 To view the project locally:
 
 ```bash
-git clone https://github.com/holbertonschool-web_front_end.git
+git clone https://github.com/IEyZens/holbertonschool-web_front_end.git
 cd holbertonschool-web_front_end/html_advanced
 xdg-open index.html  # or open index.html (macOS)
 ```
