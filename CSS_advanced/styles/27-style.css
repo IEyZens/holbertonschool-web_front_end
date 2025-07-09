@@ -111,7 +111,6 @@ ul.row {
 	font-size: var(--font-size-xx-large);
 	font-weight: var(--font-weight-bold);
 	margin: var(--section-title-margin);
-	margin-bottom: 5rem;
 	color: var(--section-title-color);
 }
 
@@ -145,12 +144,6 @@ ul.row {
 .section-footer {
 	padding: var(--section-footer-padding);
 	text-align: var(--section-footer-align);
-}
-
-.section-hero {
-	background-size: 90rem auto;
-	width: 90rem;
-	height: auto;
 }
 
 .footer {
@@ -229,6 +222,16 @@ ul.row {
 	display: block;
 	padding-top: 1rem;
 	color: var(--color-primary);
+}
+
+.section-hero {
+	background-size: 90rem auto;
+	width: 90rem;
+	height: auto;
+}
+
+.section-hero .section-title {
+	margin-bottom: 5rem;
 }
 
 .section-hero .section-inner {
