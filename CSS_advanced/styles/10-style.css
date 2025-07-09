@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-tagline {
 	--text-color: var(--color-primary);
+	align-items: var(--section-header-align);
 }
 
 .section-header {
