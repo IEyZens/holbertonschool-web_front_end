@@ -36,7 +36,7 @@ a:active {
 	background-color: var(--color-light-grey);
 }
 
-*[data-section-theme="dark"] {
+[data-section-theme="dark"] {
 	--text-color: var(--color-white);
 	--section-title-color: var(--color-white);
 	background: var(--color-black);
