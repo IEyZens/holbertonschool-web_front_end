@@ -42,9 +42,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .row::after {
-	content: none;
+	content: "";
 	display: table;
-	float: none;
+	clear: both;
 }
 
 ul.row {
