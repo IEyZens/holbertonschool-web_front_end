@@ -142,8 +142,8 @@ ul.row {
 	display: block;
 }
 
-.social-link:nth-child(svg) {
-	color: var(--text-color);
+.social-link svg {
+	fill: var(--text-color);
 }
 
 .navbar-menu {
