@@ -1,12 +1,12 @@
 html {
 	scroll-behavior: smooth;
-	text-size-adjust: 62.5%;
+	font-size: 62.5%;
 }
 
 body {
 	--text-color: var(--text-color);
 	font-family: var(--font-family-base);
-	text-size-adjust: var(--font-size-medium);
+	font-size: var(--font-size-medium);
 }
 
 a {
